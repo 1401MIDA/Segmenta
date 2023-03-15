@@ -42,4 +42,4 @@ Try to Reproduce Our Basic Results
 
 See here_.
 
-. _here: https://github.com/1401MIDA/Segmenta/tree/master/scripts/deploy
+.. _here: https://github.com/1401MIDA/Segmenta/tree/master/scripts/deploy
