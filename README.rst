@@ -9,9 +9,7 @@ section may be incomplete and subject to changes.
 
 ::
 
-    # install from the repo
-    git clone https://github.com/hot-stuff/libhotstuff.git
-    cd libhotstuff/
+    # install from the repo, then
     git submodule update --init --recursive
 
     # ensure openssl and libevent are installed on your machine, more
@@ -43,3 +41,5 @@ Try to Reproduce Our Basic Results
 ==================================
 
 See here_.
+
+. _here: https://github.com/1401MIDA/Segmenta/tree/master/scripts/deploy
